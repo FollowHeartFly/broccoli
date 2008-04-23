@@ -1,0 +1,69 @@
+#!/usr/bin/env ruby -w
+
+=begin rdoc
+  Question answering script.
+  
+  Authors:
+    Zach Paine (znp)
+    Mattt Thompson (mattt)
+    Owen Yamauchi (ody)
+    Emilie McConville (emcconvi)
+=end
+
+# So we don't need a long nasty line on every require
+$: << File.join(File.dirname(__FILE__), '/lib')
+$:.concat(Dir.glob(File.join(File.dirname(__FILE__), '/vendor/*/lib')))
+
+require 'easy_answer'
+require 'getoptlong'
+require 'logger'
+
+logdir = File.join(File.dirname(__FILE__), '/log')
+Dir.mkdir(logdir) unless File.directory?(logdir)
+$logger = Logger.new(File.join(File.dirname(__FILE__), '/log/' +
+  Time.now.strftime("ask_%m%d%Y%H%M") + ".log"))
+
+usage = "#{$0} [--verbose] article_file questions_file"
+
+$VERBOSE = false
+opts = GetoptLong.new(['--verbose', '-v', GetoptLong::NO_ARGUMENT])
+opts.each {|opt, arg| $VERBOSE = (opt == '--verbose')}
+
+if $VERBOSE
+  $logger = Logger.new(STDERR)
+  $logger = Logger.new(STDOUT)
+end
+
+if ARGV.length != 2
+  puts usage
+  exit 0
+end
+
+$logger.debug "Question Answerer Started"
+(article, questions_file) = ARGV
+
+if !File.exists?(article) or !File.exists?(questions_file)
+  puts usage
+  exit 0
+end
+
+$logger.debug "Loading article text"
+article_text = ''
+File.open(article) do |file|
+  article_text = file.read
+end
+
+File.open(questions_file) do |file|
+  file.each_line do |line|
+    $logger.debug "QUESTION: " + line.chomp
+    answer = EasyAnswer.answer(line, article_text)
+    if answer
+      $logger.debug "ANSWER: " + answer unless $VERBOSE
+      puts answer
+    else
+      puts "Couldn't answer this question!"
+    end
+  end
+end
+
+

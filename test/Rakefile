@@ -1,0 +1,11 @@
+require 'rake'
+require 'rake/testtask'
+
+task :default => [:component_tests]
+
+desc "Run component tests"
+Rake::TestTask.new("component_tests") { |t|
+  t.pattern = 'components/*_test.rb'
+  t.verbose = true
+  t.warning = true
+}
