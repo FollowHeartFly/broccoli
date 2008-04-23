@@ -1,0 +1,189 @@
+presidents/a5.txt 
+
+With NER
+  What was appointed as such by President Andrew Johnson on the same day.''?
+    Answer: Grant
+  
+  Who achieved international fame as the leading Union general in the American Civil War?
+    Answer: Grant
+    
+  Who visited Ireland, Scotland, and England; the crowds were huge?
+    Answer: Grant
+    
+  What was deployed to Missouri to protect the Hannibal and St Joseph Railroad?
+    Answer: Grant
+
+  Who took a hard line that reduced violence by groups like the Ku Klux Klan?
+    Answer: Grant
+
+  What invaded north through the Shenandoah Valley and reached the outskirts of Washington, D.C?
+    Answer: Jubal A. Earley
+    
+  the Meiji government of Japan announced the annexation of the Ryukyu Islands in what year?
+    Answer: 1879
+    
+  Who commanded the army for the battles of Corinth and Iuka that fall?
+    Answer: Grant
+    
+  What was twice brevetted for bravery: at Molino del Rey and Chapultepec?
+    Answer: Grant
+    
+  What lasted 14 days?
+    Answer: The Battle of Spotsylvania Court House
+
+Without NER
+  What typically rank Grant in the lowest quartile of U.S?
+    Presidential experts
+    
+  Who took a hard line that reduced violence by groups like the Ku Klux Klan?
+    Grant
+    
+  What has been described by J.F.C?
+    Gramt
+
+  What struggled through seven lean years?
+    Grant
+    
+  What persisted in the Army for years that his commanding officer, Bvt?
+    Rumors.
+    
+  Grant was elected president as a Republican in what year?
+    1868
+    
+  What was twice brevetted for bravery: at Molino del Rey and Chapultepec?
+    Grant.
+
+  What were leased in St Louis in 1860 after Grant gave up farming?
+    His wife's slaves.
+    
+  Who achieved international fame as the leading Union general in the American Civil War?
+    Grant.
+    
+  What Quotes on the Military Academy and the Mexican War?
+    Grant.
+    
+countries/a5.txt
+
+With NER
+  What connected the Akans to this Empire?
+    Anecdotal evidence
+
+  What are divided into two linguistic subfamilies of the Niger-Congo language family?
+    Native Ghanaian languages
+    
+  What extends through large portions of eastern Ghana?
+    Lake Volta
+    
+  What is a country in West Africa?
+    The Republic of Ghana
+    
+  What was Wagadugu?
+    The actual name of the Empire
+    
+  What is 1 Ghana Cedi for every 10,000 Cedis?
+    The transfer rate
+    
+  The Portuguese built the Elmina Castle in what year?
+    1482
+    
+  What includes the Gurma, Grusi, and Dagbani languages?
+    The Gur group
+    
+  What made progress under a three-year structural adjustment program in cooperation with the IMF?
+    Ghana
+    
+  Who was controlled by Sundiata in 1240 AD, and absorbed into the larger Mali Empire?
+    Ghana
+    
+Without NER
+  Who was controlled by Sundiata in 1240 AD, and absorbed into the larger Mali Empire?
+    Ghana.
+    
+  What had ancestors linked with the medieval Ghana?
+    Some inhabitants of present Ghana
+    
+  What connected the Akans to this Empire?
+    Anecdotal evidence.
+    
+  What was later adopted to by the English colonisers?
+    The Gold Coast
+    
+  What was Wagadugu?
+    The actual name of the Empire.
+    
+  Who is said that at its peak, the King of Ashanti could field 500,000 troops?
+    (Heh.  The original sentence was "It is said that at its peak...")
+
+  What is a country in West Africa?
+    Ghana
+
+  The Portuguese built the Elmina Castle in what year?
+    1482
+    
+  What was to trade in gold, ivory and slaves?
+    Their aim.
+  
+animals/a5.txt
+
+With NER
+  What has become a widespread hereditary trait?
+    Tusklessness
+    
+  What ranges in length from 5 minutes to 60 hours?
+    Labour
+    
+  Who range over much of the savanna zone south of the Sahara?
+    Savanna Elephants
+    
+  What has its origins in the Greek???, meaning`` ivory'' or`` elephant''?
+    The word "elephant"
+    
+  Who is a calque of the Sinhala term hora aliya?
+    A Rogue elephant.
+    
+  What found subspecies is the Sri Lankan Elephant?
+    The first(?)
+
+  What bush elephant in Mikumi National Park, Tanzania?
+    (This is from the description of an image)
+    
+  What tries to hold Tyke the elephant behind a gate during a rampage?
+    Steve Hirano
+    
+  What ?? 17057 10.1073\/ pnas.0608062103 abstract A young elephant in Zimbabwe?
+    (Another image)
+
+  What is the Forest Elephant?
+    The other postulated species
+  
+Without NER
+  What are a family in the order Proboscidea in the class Mammalia?
+    Elephants.
+
+  What has its origins in the Greek???, meaning`` ivory'' or`` elephant''?
+    The word "elephant"
+    
+  What was shot in Angola in 1956?
+    The largest elephant ever recorded
+    
+  What died of infection 12 days later?
+    A calf.
+    
+  What are increasingly threatened by human intrusion and poaching?
+    Elephants.
+    
+  What is 22 months, the longest of any land animal?
+    Their gestation period.
+  
+  What elephant with calf, in Kenya?
+    (Image description)
+    
+  Who is preserved as a mounted specimen at the British Natural History Museum, London?
+    The dead calf.  ("It" in the sentence.)
+
+  What may live as long as 70 years, sometimes longer?
+    An elephant.
+    
+  What was like that of an African elephant?
+    His wrinkled trunk.
+  

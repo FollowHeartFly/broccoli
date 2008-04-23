@@ -1,0 +1,65 @@
+#!/usr/bin/env ruby -w
+
+=begin rdoc
+  Question asking script.
+  
+  Authors:
+    Zach Paine (znp)
+    Mattt Thompson (mattt)
+    Owen Yamauchi (ody)
+    Emilie McConville (emcconvi)
+=end
+
+$: << File.join(File.dirname(__FILE__), '/lib')
+$:.concat(Dir.glob(File.join(File.dirname(__FILE__), '/vendor/*/lib')))
+require 'easy_question'
+
+require 'article_preprocessor'
+require 'getoptlong'
+require 'logger'
+
+usage = "#{$0} [--verbose] article_file n"
+
+logdir = File.join(File.dirname(__FILE__), '/log')
+Dir.mkdir(logdir) unless File.directory?(logdir)
+$logger = Logger.new(File.join(File.dirname(__FILE__), '/log/' +
+  Time.now.strftime("ask_%m%d%Y%H%M") + ".log"))
+
+$VERBOSE = false
+opts = GetoptLong.new(['--verbose', '-v', GetoptLong::NO_ARGUMENT])
+opts.each {|opt, arg| $VERBOSE = (opt == '--verbose')}
+
+if $VERBOSE
+  $logger = Logger.new(STDERR)
+  $logger = Logger.new(STDOUT)
+end
+
+if ARGV.length != 2
+  puts usage
+  exit 0
+end
+
+$logger.debug "Question Asker Started"
+(article, num_questions) = ARGV
+num_questions = num_questions.to_i
+
+if !File.exists?(article) 
+  $logger.fatal "#{article} does not exist; exiting"
+  exit 0
+end
+
+$logger.debug "Loading article text"
+article_text = ArticlePreprocessor.sanitize(File.open(article).readlines.join)
+
+$logger.debug "Generating questions"
+
+# Generate n questions from each asker and then randomly pick n to be asked
+questions = EasyQuestion.ask(article_text, num_questions)
+
+questions.each_with_index do |q, i|
+  $logger.info "QUESTION: " + q
+  puts q unless $VERBOSE
+  
+  break if i >= num_questions
+end
+$logger.debug "Finished"

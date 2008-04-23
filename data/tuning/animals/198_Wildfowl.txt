@@ -1,0 +1,67 @@
+‹ The template below (Citations missing) is being considered for deletion. See templates for deletion to help reach a consensus. ›
+
+Anatidae is the biological family that includes the ducks and most duck-like waterfowl, such as geese and swans. These are birds that are evolutionarily adapted for swimming, floating on the water surface, and in some cases diving in at least shallow water. (The Magpie-goose is no longer considered to be part of the Anatidae, but is placed in its own family Anseranatidae.)
+
+Extant species range in size from the Cotton Pygmy Goose, at as little as 26.5 cm (10.5 inches) and 164 grams (5.8 oz), to the Trumpeter Swan, at as much as 183 cm (6 ft) and 17.2 kg (38 lb). They have webbed feet and bills which are flattened to a greater or lesser extent. Their feathers are excellent at shedding water due to special oils. Anatidae are remarkable for being one of the few families of birds that possess a penis; they are adapted for copulation on the water only. Duck, eider, and goose feathers and down have long been popular for bedspreads, pillows, sleeping bags and coats. The members of this family also have long been used for food.
+
+Humans have had a long relationship with ducks, geese and swans; they are important economically and culturally to humans, and several duck species have benefited from an association with people. On the flip side some anatids are damaging agricultural pests, and have acted as vectors for zoonosis such as avian influenza. Numerous ducks and geese have become extinct due to the activities of humans, and many more are currently considered threatened species.
+
+While the status of the Anatidae as a family is straightforward, and there is little debate about which species properly belong to it, the relationships of the different tribes and subfamilies within it are poorly understood. The listing in the box at right should be regarded as simply one of several possible ways of organising the many species within the Anatidae; see discussion in the next section.
+
+Currently, the systematics of the Anatinae is in a state of flux. Previously divided into six subfamilies, a study of anatomical characters by Livezey suggest that the Anatidae are better treated in nine subfamilies. This classification was popular in the late 1980s to 1990s. But mtDNA sequence analyses indicate that for example the dabbling and diving ducks do not belong in the same subfamily. While there are certainly shortcomings in Livezey's analysis, mtDNA is an unreliable source for phylogenetic information in many waterfowl (especially dabbling ducks) due to their ability to produce fertile hybrids, in rare cases possibly even beyond the level of genus (see for example the "Barbary Duck"). Due to the small sample size of many molecular studies available to date, mtDNA results must be considered with caution.
+
+But while a comprehensive review of the Anatidae which unites all evidence into a robust phylogeny is still lacking, the reasons for the confusing data are at least clear: As demonstrated by the Late Cretaceous fossil Vegavis iaai — an early modern waterbird which belonged to an extinct lineage — the Anatidae are an ancient group among the modern birds. Their earliest direct ancestors, though not documented by fossils yet, likewise can be assumed to have been contemporaries with the dinosaurs. The long period of evolution and shifts from one kind of waterbird lifestyle to another have obscured many plesiomorphies, while apomorphies apparently are quite often the result of parallel evolution, for example the "non-diving duck" type displayed by such unrelated genera as Dendrocygna, Amazonetta, and Cairina. For the fossil record, see below.
+
+Alternatively, the Anatidae may be considered to consist of 3 subfamilies (ducks, geese, and swans, essentially) which contain the groups as presented here as tribes, with the swans separated as subfamily Cygninae, the goose subfamily Anserinae also containing the whistling ducks, and the Anatinae containing all other clades.
+
+Dendrocygninae: whistling ducks
+
+One pantropical genus, of distinctive long-legged goose-like birds:
+
+Thalassorninae: White-backed Duck
+
+One genus in Africa, most closely related to the subfamily Dendrocygninae, though also showing convergent similarities to the subfamily Oxyurinae:
+
+Three to seven extant genera with 25-30 living species, mainly cool temperate Northern Hemisphere but also some Southern Hemisphere species, with the swans in one genus (two genera in some treatments), and the geese in three genera (two genera in some treatments). Some other species are sometimes placed herein, but seem somewhat more distinct (see below):
+
+One genus in Australia, formerly included in the Oxyurinae, but with anatomy suggesting a distinct ancient lineage perhaps closest to the Anserinae, especially the Cape Barren Goose:
+
+Plectropterinae: Spur-winged Goose
+
+One genus in Africa, formerly included in the "perching ducks", but closer to the Tadorninae:
+
+Tadorninae: shelducks and sheldgeese
+
+This group of larger, often semi-terrestrial waterfowl can be seen as intermediate between Anserinae and Anatinae. The 1986 revision and the group in the traditional lineup is likely to be paraphyletic:
+
+Anatinae: dabbling ducks and moa-nalos
+
+The dabbling duck group, of worldwide distribution, were previously restricted to just one or two genera, but had been extended to include 8 extant genera and about 55 living species, including several genera formerly known as the "perching ducks"; mtDNA on the other hand confirms that the genus Anas is over-lumped and casts doubt on the diving duck affiliations of several genera (see below):
+
+The moa-nalos, of which 4 species in 3 genera are known to date, are a peculiar group of flightless, extinct Anatidae from the Hawaiian Islands. Gigantic in size and with massive bills, they were believed to be geese, but have been shown to be actually very closely related to mallard. They evolved filling the ecological niche of turtles, ungulates and other megaherbivores.
+
+Some 15 species of diving ducks, of worldwide distribution, in 2-4 genera; The 1986 morphological analysis suggested that the probably extinct Pink-headed Duck of India, previously treated separately in Rhodonessa, should be placed in Netta, but this has been questioned. Furthermore, while morphologically close to dabbling ducks, the mtDNA data indicates that a treatment as distinct subfamily is indeed correct, with the Tadorninae being actually closer to dabbling ducks than the diving ducks are:
+
+Merginae: eiders, scoters, sawbills and other sea-ducks
+
+Common Goldeneye couple, male on the right.
+
+There are 9 extant genera and some 20 living species; most of this group occur in the Northern Hemisphere, but a few (mostly extinct) mergansers in the Southern Hemisphere:
+
+A small group of 3-4 genera, 2-3 of them monotypic, with 7-8 living species:
+
+The rare White-winged Wood Duck, a species of unclear affiliation.
+
+The largest degree of uncertainty concerns whether a number of genera are closer to the shelducks or to the dabbling ducks. See also the monotypic subfamilies above, and the "perching ducks"
+
+From subfossil bones found on Kauaʻi (Hawaiian Islands), two enigmatic waterfowl are known. The living and assignable prehistoric avifauna of the archipelago contains as Anseriformes Branta geese and their descendants, and the moa-nalos as mentioned above. The following taxa, although certainly new species, cannot be assigned even to subfamily; that Kauaʻi is the oldest of the large Hawaiian Islands, meaning the species may have been evolving in isolation for nearly up to 10 mya (since the Late Miocene), does not help in determining their affinities:
+
+Similarly, Wetmore's Goose (Geochen rhuax) from the Big Island of Hawaiʻi, and a gigantic goose-like anatid from Oʻahu are known only from very incomplete and in the former case much damaged bone fragments. The former has been alleged to be a shelduck, but this was generally dismissed because of the damage to the material and biogeographic considerations. The long-legged Kauaʻi bird, however, hints at the possibility of a former tadornine presence on the archipelago.
+
+The fossil record of anatids is extensive, but many prehistoric genera cannot be unequivocally assigned to present-day subfamilies for the reasons given above. Some (such as Eonessa) seem to belong to subfamilies which are completely extinct. For prehistoric species of extant genera, see the respective genus accounts.
+
+Eonessinae - extinct ancient anatids
+
+Dendrocheninae - a more advanced relative of the whistling-ducks; probably extinct but Malacorhynchus may belong here
+
+Putative or disputed prehistoric anatids are:
