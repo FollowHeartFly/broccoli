@@ -1,0 +1,44 @@
+@import "reset.css";
+@import "typography.css";
+
+html, body{
+  background:url(../images/background.gif) no-repeat fixed 700px bottom #79B037;
+  font-family:"Arial Rounded MT Bold", "Helvetica Rounded LT Standard", verdana, sans-serif;
+}
+
+.container{
+  margin:40px 20px;
+  width:550px;
+  padding-right:300px;
+}
+
+h1 {margin-bottom:20px;}
+h1 span{display:none;}
+h1, h2, p, table {color:#E6FAA3; text-shadow:1px 1px 2px #666A1A;}
+
+a {
+  color:#E6FAA3;
+}
+
+a:hover{
+  color:#E6FAA3;
+}
+
+table {
+  margin:30px auto;
+}
+
+table tr.links a{
+  background:#466720;
+  text-decoration:none;
+  padding:0.25em;
+}
+
+table tr.links a:hover{
+  background:#2A4010;
+}
+
+table td{
+  text-align:center;
+  width:33%;
+}
